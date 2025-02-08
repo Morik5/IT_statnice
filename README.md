@@ -2,7 +2,9 @@
 *Praktické úlohy*  
 
 ## 📌 Obsah  
-- [📂 Struktura projektu](#-datove_struktury)  
+- [📂 Datové struktury](#-datove_struktury)  
+- [📂 Výjimky](#-vyjimky)  
+- [📂 OOP](#-OOP)  
 
 
 
