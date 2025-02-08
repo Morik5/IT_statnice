@@ -1,9 +1,8 @@
 # 🎓 Státnice - Programování  
-*Repozitář pro sdílení materiálů a kódu ke státnicím*  
+*Praktické úlohy*  
 
 ## 📌 Obsah  
-- [📂 Struktura projektu](#-struktura-projektu)  
-- [🛠 Jak přispívat](#-jak-přispívat)  
-- [📜 Licenční podmínky](#-licenční-podmínky)  
+- [📂 Struktura projektu](#-datove_struktury)  
+
 
 
